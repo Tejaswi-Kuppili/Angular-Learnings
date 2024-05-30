@@ -1,5 +1,5 @@
 {
-  "name": "angular-observables",
+  "name": "observables",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:AngularObservables": "node dist/angular-observables/server/server.mjs"
+    "serve:ssr:Observables": "node dist/observables/server/server.mjs"
   },
   "private": true,
   "dependencies": {
